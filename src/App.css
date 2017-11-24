@@ -1,0 +1,16 @@
+.App {
+	margin: 50px auto;
+	text-align: center;
+	border: 1px solid black;
+	width: 400px;
+	padding: 5px;
+	box-shadow: 5px 3px 5px gray;
+	overflow: auto;
+	height: 450px;
+}
+
+.App input {
+	width: 89%;
+	height: 20px;
+	text-align: right;
+}
